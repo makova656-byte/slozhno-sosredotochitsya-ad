@@ -1,4 +1,4 @@
-:root{
+:root {
   --bg-image: url(../images/cover-image-dark.png);
   --title-color: #DB00FF;
   --accent-color: #FF0070;
@@ -13,13 +13,13 @@
   --content-margin-block: 40px;
   --content__section-margin: 50px;
   --main-font: "IBM Plex mono";
-  --hover-border-color: rgba(255, 0, 112, 0.4); 
+  --hover-border-color: rgba(255, 0, 112, 0.4);
   --content__section-title-color: rgb(255 0 112);
   --button-color: #FF0070;
   --decor-color: #FF0070;
 }
-@media(min-width: 768px){
-  :root{
+@media (min-width: 768px){
+  :root {
     --page-padding: 20px;
     --content-margin-block: 60px;
     --content__section-margin: 80px;

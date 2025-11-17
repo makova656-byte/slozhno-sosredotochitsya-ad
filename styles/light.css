@@ -11,7 +11,7 @@
   --decor-color: #353430;
 }
 @media (prefers-color-scheme: light) {
-  :root{
+  :root {
     --bg-color: #fff1f7;
     --title-decor-color: #353430;
     --content__section-title-color: #353430;
